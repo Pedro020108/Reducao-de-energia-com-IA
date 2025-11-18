@@ -1,1 +1,1 @@
-# Redu-o-do-uso-de-energia-com-IA-
+reducao de energia com ia 
