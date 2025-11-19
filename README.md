@@ -27,7 +27,7 @@ Isso permite visualizar claramente como pequenas melhorias automáticas podem di
 ## Como executar 
 1. Clone o repositório:  
    `https://github.com/Pedro020108/Reducao-de-energia-com-IA/blob/main/C%C3%B3digo.py`   
-2. Execute o script
+2. Executar o código
   
 3. Confira no terminal os resultados.
 
